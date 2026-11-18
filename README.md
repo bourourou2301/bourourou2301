@@ -14,7 +14,7 @@ August 2024 – May 2028 (expected) · Montréal, QC
 ## 💼 Experience
 
 ### Incoming Software Development Intern — C3RiOS Systèmes
-January 2027 – May 2027 (upcoming), Montréal, QC
+January 2027 – May 2027 (upcoming) · Montréal, QC
 
 ### Software Engineering Intern — Ericsson
 September 2026 – Present · Montréal, QC
