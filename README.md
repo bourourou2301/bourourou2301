@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Amine Saber 👋
 
-<!--
-**bourourou2301/bourourou2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Polytechnique Montréal, interested in backend development, embedded systems, and developer automation. I build software with C/C++, Rust, Java, Python, and TypeScript.
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/amine-s-956950322/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**Polytechnique Montréal** — Bachelor of Software Engineering
+August 2024 – May 2028 (expected) · Montréal, QC
+
+- Activities: PolyAI (Co-VP Sponsorship), PolyOrbite (Embedded Developper)
+
+## 💼 Experience
+
+### Incoming Software Development Intern — C3RiOS Systèmes
+January 2027 – May 2027 (upcoming), Montréal, QC
+
+### Software Engineering Intern — Ericsson
+September 2026 – Present · Montréal, QC
